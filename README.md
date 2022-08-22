@@ -6,7 +6,7 @@
 ## Linux CLI, and HTTP
 ![Linux Survival course](./task_linux_cli/2022-08-21%2017_08_09-Linux%20Tutorial%20End%20of%20Module%204%20_%20Linux%20Survival.png)
 
-(1) Linux Survival cource: 
+(1) Linux Survival course: 
 
 Нове: Робота з man. (дійсно зручно)
 
@@ -29,3 +29,48 @@
 Здивувало: різні можливості для обмеження актуальності контенту.
 
 Планую використовувати у майбутньому: запропоновані статті коли прийде час більш детально розбиратись/працювати з HTTP.
+
+## Git Collaboration
+### Coursera
+
+Нове: більша частина інформації. Все, що торкалось безпосередньої роботи з github.
+
+Здивувало: можливості github. Варіативність підходів, тонке налаштування під конкретні потреби. 
+
+Планую використовувати у майбутньому: сподіваюсь все. Точно- роботу з приватними репозиторіями.
+
+
+Week 1
+
+![Week 1](./task_git_collaboration/Introduction_to_Git_and_GitHub_Introduction_to_Version_Control%20_%20Coursera.png)
+
+Week 2
+
+![Week 2](./task_git_collaboration/Introduction_to_Git_and_GitHub_Using_GIT_Localy_%20Coursera.png)
+
+Week 3
+
+![Week 3](./task_git_collaboration/Introduction_to_Git_and_GitHub_Working_With_Remotes.png)
+
+
+Week 4
+
+![Week 4](./task_git_collaboration/Introduction_to_Git_and_GitHub_Collaboration.png)
+
+
+### Learngitbranching
+
+
+Нове: візуалізація роботи з комітами. Стало набагато зрозуміліше.
+
+Здивувало: кількість варіантів вирішення однієї і тієї ж задачі. 
+
+Планую використовувати у майбутньому: цей сайт для закріплення і повторення інформації.
+
+Basics
+
+![Basics](./task_git_collaboration/Learn_Git_Branching_Basics.png)
+
+Remote repos
+
+![Remote repos](./task_git_collaboration/Learn_Git_Branching_remote_repos.png)
