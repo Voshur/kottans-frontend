@@ -74,3 +74,36 @@ Basics
 Remote repos
 
 ![Remote repos](./task_git_collaboration/Learn_Git_Branching_remote_repos.png)
+
+
+## Intro to HTML and CSS
+
+### Coursera
+
+Нове: Підходи до роботи з респонсів дизайном.
+
+Здивувало: Краса і простота розбивки в Twitter Bootstrap.
+
+Планую використовувати у майбутньому: Всі знання в цілому, зокрема Twitter Bootstrap.
+
+Week 1
+
+![Week 1](./task_html_css_intro/Coursera_HTML_CSS_wk1.png)
+
+Week 2
+
+![Week2](./task_html_css_intro/Coursera_HTML_CSS_wk2.png)
+
+
+### Codecademy
+
+Нове: Варіанти роботи з палітрами.
+
+Здивувало: Те, що можна задавати купу "запасних шрифтів".
+
+Планую використовувати у майбутньому: Сторонні шрифти.
+
+
+HTML + CSS
+
+![HTML+CSS](./task_html_css_intro/HTML_CSS_Pass_Codecademy.png)
