@@ -107,3 +107,46 @@ Week 2
 HTML + CSS
 
 ![HTML+CSS](./task_html_css_intro/HTML_CSS_Pass_Codecademy.png)
+
+
+## Responsive Web Design
+
+### Responsive web design basics
+
+Нове: "Ідеальний стовбчик має містити від 70 до 80 символів в рядку для зручності читання".
+
+Здивувало: Функції any-hover і any-pointer.
+
+Планую використовувати у майбутньому: медіа-запити.
+
+
+### FLEXBOX. Вчимося верстати на флексах
+
+Нове: Принципи роботи flexbox.
+
+Здивувало: Вкладеність флексбоксів.
+
+Планую використовувати у майбутньому: шпаргалку по flexbox.
+
+### Flexbox Froggy
+
+
+Крута штука, гарна візуалізація властивостей флексбоксів.
+
+![Froggy](./task_responsive_web_design/Flexbox_Froggy.png)
+
+
+### CSS Grid Layout
+
+Нове: Принципи роботи Grid Layout.
+
+Здивувало: Можливість вертіти сіткою і адаптувати її як заманеться.
+
+Планую використовувати у майбутньому: шпаргалку по Grid.
+
+
+### Grid Garden
+
+Так само як і попередня гра- крута візуалізація властивостей грід сіток.
+
+![Garden](./task_responsive_web_design/Grid_Garden.png)
